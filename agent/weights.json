@@ -1,0 +1,10 @@
+{
+  "city_value": 50000000.0,
+  "port_value": 15000000.0,
+  "port_opp": -1000000.0,
+  "discard_risk": -5000000.0,
+  "opp_dev_vp": -1000000.0,
+  "army_progress": 2000.0,
+  "road_progress": 2000.0,
+  "city_plan": 1000.0
+}
